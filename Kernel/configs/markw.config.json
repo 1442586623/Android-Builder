@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi mix2",
+      "name": "XiaomiMix2",
       "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_msm8998",
       "branch": "14.0-Nanhumly",
       "device": "chiron",
